@@ -5,3 +5,4 @@
 //git log show the commit inforamtion 'versions'
 //git show show the differences
 //git branch show the esxisting branches if param create a new one
+//git checkout move trought brances !important befor moving we sould stage the changes otherwise we lose them
